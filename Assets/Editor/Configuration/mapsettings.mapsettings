@@ -1,0 +1,54 @@
+﻿{
+    "MapName": "sunnsquare_mall",
+	"MapId": 1,
+    "SceneName": "sunnsquare_mall",
+    "MapState": 1,
+    "MapSize": 0,
+    "GameModes": [
+        "basic_koth",
+        "basic_ffa",
+        "basic_conquest_3_points",
+        "basic_tdm"
+    ],
+    "ResupplyLocations": [
+        "L1",
+        "L2",
+        "L3",
+        "L4",
+        "L5",
+        "L6",
+        "L7",
+        "L8",
+        "L9",
+        "L10",
+        "L11"
+    ],
+    "MapBounds": {
+        "MinX": -44.0,
+        "MaxX": 20.0,
+        "MinY": -1.0,
+        "MaxY": 11.0,
+        "MinZ": -60.0,
+        "MaxZ": 60.0
+    },
+	"MapNameLocalizationDefault": "SUNNSQUARE MALL",
+    "MapNameLocalization": {
+        "list": [
+            { "Key": "en_US", "Value": "SUNNSQUARE MALL" },
+            { "Key": "pt_BR", "Value": "SHOPPING SUNNSQUARE" },
+            { "Key": "es_MX", "Value": "SHOPPING SUNNSQUARE" },
+            { "Key": "fr_FR", "Value": "GALERIE SUNNSQUARE" },
+            { "Key": "de_DE", "Value": "SUNNSQUARE-ZENTRUM" },
+            { "Key": "hr_HR", "Value": "SUNNSQUARE CENTAR" },
+            { "Key": "tr_TR", "Value": "SUNNSQUARE MAĞAZASI" },
+            { "Key": "sv_SE", "Value": "SUNNSQUARE GALLERIA" },
+            { "Key": "zn_CH", "Value": "日不落广场" },
+            { "Key": "zh_HK", "Value": "日不落廣場" },
+			{ "Key": "it_IT", "Value": "CENTRO COMMERCIALE SUNNSQUARE" },
+            { "Key": "ru_RU", "Value": "ТЦ 'СОЛНЦЕГРАД'" },
+            { "Key": "pl_PL", "Value": "CENTRUM SUNNSQUARE" },
+            { "Key": "hu_HU", "Value": "SUNNSQUARE MALL" },
+            { "Key": "fi_FI", "Value": "SUNNSQUARE OSTOSKESKUS" }
+        ]
+    }
+}
